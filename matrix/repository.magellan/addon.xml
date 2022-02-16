@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   <addon 
   id="repository.magellan" 
-  name="[COLOR red]Magellan[/COLOR] [COLOR black]Matrix[/COLOR] [COLORcyan]Repository[/COLOR]" 
+  name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]" 
   version="1.0.0" 
   provider-name="Magellan">
   <requires>
@@ -21,7 +21,7 @@
   
   <dir minversion="16.0.0" maxversion="18.9.0">
       <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml</info>
-      <checksum>https://github.com/magellan/euro2000/magellan.github.io/raw/main/leia/addons.xml.md5</checksum>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml.md5</checksum>
       <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/leia</datadir>
       <hashes>false</hashes>
     </dir>
