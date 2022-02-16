@@ -1,5 +1,5 @@
 # magellan REPOSITORY
-# Versão Actual: 2.01
+# Versão Actual: 1.0.0
 
 Instruções para a adição deste repo:
 
